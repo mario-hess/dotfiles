@@ -16,8 +16,8 @@
 <b>Theme:</b> Catppuccin Macchiato x Dracula BG-Color\
 <b>Fonts:</b> MonoLisa, NotoSansJP, feather icons\
 
+![Screenshot1](https://i.imgur.com/PUhxzs0.png)
+![Screenshot2](https://i.imgur.com/XpfN2qu.png)
 
-![Screenshot1](https://imgur.com/PUhxzs0)
-![Screenshot2](https://imgur.com/XpfN2qu)
-![Screenshot3](https://imgur.com/UwZXSG7)
-![Screenshot4](https://imgur.com/Y34W4J5)
+![Screenshot3](https://i.imgur.com/UwZXSG7.png)
+![Screenshot4](https://i.imgur.com/Y34W4J5.png)
