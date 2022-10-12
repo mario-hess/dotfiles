@@ -19,5 +19,5 @@
 
 ![Screenshot1](https://imgur.com/PUhxzs0)
 ![Screenshot2](https://imgur.com/XpfN2qu)
-![Screenshot2](https://imgur.com/UwZXSG7)
-![Screenshot2](https://imgur.com/Y34W4J5)
+![Screenshot3](https://imgur.com/UwZXSG7)
+![Screenshot4](https://imgur.com/Y34W4J5)
