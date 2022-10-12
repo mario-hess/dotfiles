@@ -17,3 +17,7 @@
 <b>Fonts:</b> MonoLisa, NotoSansJP, feather icons\
 
 
+![Screenshot1](https://imgur.com/PUhxzs0)
+![Screenshot2](https://imgur.com/XpfN2qu)
+![Screenshot2](https://imgur.com/UwZXSG7)
+![Screenshot2](https://imgur.com/Y34W4J5)
