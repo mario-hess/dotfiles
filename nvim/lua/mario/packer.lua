@@ -18,4 +18,6 @@ return require('packer').startup(function(use)
   use { "glepnir/dashboard-nvim" }
   use { "ray-x/lsp_signature.nvim" }
   use({"L3MON4D3/LuaSnip", tag = "v<CurrentMajor>.*"})
+  use 'andweeb/presence.nvim'
+  use 'preservim/nerdtree'
   end)
