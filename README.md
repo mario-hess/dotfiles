@@ -14,7 +14,7 @@
 <b>Notification Daemon:</b> dunst\
 <b>Office Suite:</b> OnlyOffice\
 <b>Theme:</b> Catppuccin Macchiato x Dracula BG-Color\
-<b>Fonts:</b> MonoLisa, NotoSansJP, feather icons\
+<b>Fonts:</b> MonoLisa, NotoSansJP, feather icons
 
 ![Screenshot1](https://i.imgur.com/PUhxzs0.png)
 ![Screenshot2](https://i.imgur.com/XpfN2qu.png)
