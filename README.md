@@ -1,22 +1,29 @@
-# dotfiles
+# Ricefield 🍚🌾
 
-<b>Distribution:</b> Arch Linux\
-<b>WM:</b> i3-gaps\
-<b>Bar:</b> polybar\
-<b>Compositor:</b> picom\
-<b>Terminal:</b> alacritty\
-<b>Shell:</b> bash\
-<b>Interactive Shell:</b> fish\
-<b>App Launcher:</b> rofi\
-<b>Text Editor:</b> nvim\
-<b>Wallpaper Manager:</b> feh\
-<b>PDF Reader:</b> zathura\
-<b>Notification Daemon:</b> dunst\
-<b>Office Suite:</b> OnlyOffice\
-<b>Theme:</b> Catppuccin Macchiato x Dracula BG-Color\
-<b>Fonts:</b> MonoLisa, NotoSansJP, feather icons
+Welcome to my carefully cultivated Arch setup.
 
-![Screenshot1](https://i.imgur.com/PUhxzs0.png)
-![Screenshot2](https://i.imgur.com/XpfN2qu.png)
-![Screenshot3](https://i.imgur.com/UwZXSG7.png)
-![Screenshot4](https://i.imgur.com/Y34W4J5.png)
+Feel free to browse, steal or modify, but beware;
+this setup may or may not start spending more time tweaking your setup than actually working.
+
+Happy ricing, and may your desktop be as smooth as the finest sushi! 🍣
+
+## 🍃 Specs:
+
+| **Component**       | **Specification**                    |
+|---------------------|--------------------------------------|
+| **Distribution**     | Arch Linux                           |
+| **Window Manager**   | i3                                   |
+| **Bar**              | polybar                              |
+| **Compositor**       | picom                                |
+| **Terminal**         | alacritty                            |
+| **Shell**            | bash                                 |
+| **Interactive Shell**| fish                                 |
+| **App Launcher**     | rofi                                 |
+| **Text Editor**      | nvim                                 |
+| **Wallpaper Manager**| feh                                  |
+| **Notification Daemon**| dunst                               |
+| **Fonts**            | MonoLisa, NotoSansJP, Feather Icons |
+
+![Screenshot1](https://i.imgur.com/0wf9FOK.png)
+![Screenshot2](https://i.imgur.com/HH97q5b.png)
+![Screenshot3](https://i.imgur.com/GrfOQPO.png)

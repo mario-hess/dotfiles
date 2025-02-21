@@ -1,0 +1,74 @@
+[colors.bright]
+black = "#6272a4"
+blue = "#8aadf4"
+cyan = "#7dc4e4"
+green = "#a6da95"
+magenta = "#c6a0f6"
+red = "#ed8796"
+white = "#cad3f5"
+yellow = "#eed49f"
+
+[colors.cursor]
+cursor = "CellForeground"
+text = "CellBackground"
+
+[colors.hints.end]
+background = "#282a36"
+foreground = "#f1fa8c"
+
+[colors.hints.start]
+background = "#f1fa8c"
+foreground = "#282a36"
+
+[colors.line_indicator]
+background = "None"
+foreground = "None"
+
+[colors.normal]
+black = "#21222c"
+blue = "#8aadf4"
+cyan = "#7dc4e4"
+green = "#a6da95"
+magenta = "#c6a0f6"
+red = "#ed8796"
+white = "#cad3f5"
+yellow = "#eed49f"
+
+[colors.primary]
+background = "#282a36"
+bright_foreground = "#cad3f5"
+foreground = "#cad3f5"
+
+[colors.search.focused_match]
+background = "#ffb86c"
+foreground = "#44475a"
+
+[colors.search.matches]
+background = "#50fa7b"
+foreground = "#44475a"
+
+[colors.selection]
+background = "#44475a"
+text = "CellForeground"
+
+[colors.vi_mode_cursor]
+cursor = "CellForeground"
+text = "CellBackground"
+
+[font]
+size = 10
+
+[font.normal]
+family = "MonoLisa"
+style = "monospace"
+
+[font.offset]
+x = 0
+y = 0
+
+[window]
+opacity = 1.0
+
+[window.padding]
+x = 16
+y = 16

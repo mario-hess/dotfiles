@@ -12,3 +12,4 @@ require("catppuccin").setup({
 
 vim.cmd [[colorscheme catppuccin]]
 vim.cmd [[highlight StatusLine guibg=none]]
+vim.cmd [[highlight NormalFloat guibg=#2f313d]]

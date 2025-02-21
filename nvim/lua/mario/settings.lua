@@ -12,7 +12,7 @@ vim.opt.incsearch = true
 
 vim.opt.smartindent = true
 
-vim.opt.wrap = false
+vim.opt.wrap = true
 
 vim.g.mapleader = " "
 

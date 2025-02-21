@@ -19,6 +19,8 @@
     border-radius: 0;
     border-color: @background-color;
     padding:          5;
+    width: 720px;
+    height: 480px;
 }
 #mainbox {
     border:  0;
@@ -42,7 +44,7 @@
 }
 #element {
     border:  0;
-    padding: 8px;
+    padding: 10px;
 }
 #element.normal.normal {
     background-color: @background-color;
