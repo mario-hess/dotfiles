@@ -5,8 +5,7 @@ Welcome to my carefully cultivated Arch setup.
 Feel free to browse, steal or modify, but beware!  
 This setup may or may not make you start spending more time tweaking it than actually working.
 
-Happy ricing!  
-May your desktop be as smooth as the finest sushi! 🍣
+Happy ricing!
 
 ## Specs:
 
